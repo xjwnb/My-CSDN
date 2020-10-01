@@ -3,6 +3,8 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [JavaScript 变量](https://blog.csdn.net/qq_43262022/article/details/108896584)
+
 ### [JavaScript ＜script＞](https://blog.csdn.net/qq_43262022/article/details/108895046)
 
 ### [JavaScript this 指向个人理解](https://blog.csdn.net/qq_43262022/article/details/108886231)
