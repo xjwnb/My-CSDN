@@ -3,6 +3,10 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [Object.assign](https://blog.csdn.net/qq_43262022/article/details/108950197)
+
+### [Object.defineProperty](https://blog.csdn.net/qq_43262022/article/details/108949646)
+
 ### [JavaScript 变量](https://blog.csdn.net/qq_43262022/article/details/108896584)
 
 ### [JavaScript ＜script＞](https://blog.csdn.net/qq_43262022/article/details/108895046)
