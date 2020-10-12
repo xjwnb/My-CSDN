@@ -3,6 +3,8 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [async、await](https://blog.csdn.net/qq_43262022/article/details/109030773)
+
 ### [异步、期约](https://blog.csdn.net/qq_43262022/article/details/109030296)
 
 ### [Proxy](https://blog.csdn.net/qq_43262022/article/details/109005907)
