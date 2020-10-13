@@ -3,6 +3,8 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [location 对象](https://blog.csdn.net/qq_43262022/article/details/109054043)
+
 ### [window 对象](https://blog.csdn.net/qq_43262022/article/details/109049372)
 
 ### [async、await](https://blog.csdn.net/qq_43262022/article/details/109030773)
