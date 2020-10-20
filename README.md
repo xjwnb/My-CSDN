@@ -3,6 +3,8 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [网络请求与远程资源](https://blog.csdn.net/qq_43262022/article/details/109191358)
+
 ### [JSON详细教程](https://blog.csdn.net/qq_43262022/article/details/109179883)
 
 ### [表单脚本](https://blog.csdn.net/qq_43262022/article/details/109170659)
