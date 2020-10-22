@@ -3,6 +3,8 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [JavaScript 设计模式之单例模式](https://blog.csdn.net/qq_43262022/article/details/109226903)
+
 ### [网络请求与远程资源](https://blog.csdn.net/qq_43262022/article/details/109191358)
 
 ### [JSON详细教程](https://blog.csdn.net/qq_43262022/article/details/109179883)
