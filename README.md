@@ -3,6 +3,8 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [JavaScript 设计模式之发布-订阅模式](https://blog.csdn.net/qq_43262022/article/details/109251482)
+
 ### [JavaScript 设计模式之迭代器模式](https://blog.csdn.net/qq_43262022/article/details/109243537)
 
 ### [JavaScript 设计模式之代理模式](https://blog.csdn.net/qq_43262022/article/details/109239718)
