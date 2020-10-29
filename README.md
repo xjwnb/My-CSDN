@@ -26,7 +26,7 @@
 ### [异步、期约](https://blog.csdn.net/qq_43262022/article/details/109030296)
 ### [Proxy](https://blog.csdn.net/qq_43262022/article/details/109005907)
 ### [JavaScript 各种继承](https://blog.csdn.net/qq_43262022/article/details/108968085)
-### [Object.assign](https://blog.csdn.net/qq_43262022/article/details/108950197
+### [Object.assign](https://blog.csdn.net/qq_43262022/article/details/108950197)
 ### [Object.defineProperty](https://blog.csdn.net/qq_43262022/article/details/108949646)
 ### [JavaScript 变量](https://blog.csdn.net/qq_43262022/article/details/108896584)
 ### [JavaScript ＜script＞](https://blog.csdn.net/qq_43262022/article/details/108895046)
