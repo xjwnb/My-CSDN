@@ -3,6 +3,7 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [Vue 路由](https://blog.csdn.net/qq_43262022/article/details/109451460)
 ### [Web 前端个人学习教程](https://blog.csdn.net/qq_43262022/article/details/109447991)
 ### [JavaScript 设计模式之模板方法模式](https://blog.csdn.net/qq_43262022/article/details/109369879)
 ### [JavaScript 设计模式之组合模式](https://blog.csdn.net/qq_43262022/article/details/109368075)
