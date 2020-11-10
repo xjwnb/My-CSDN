@@ -3,6 +3,7 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [Element-UI Loading 加载组件在 Vue 中使用](https://blog.csdn.net/qq_43262022/article/details/109600309)
 ### [CookieUtil 和 SubCookieUtil](https://blog.csdn.net/qq_43262022/article/details/109506956)
 ### [Mock.js 使用教程](https://blog.csdn.net/qq_43262022/article/details/109491780)
 ### [Vue 路由](https://blog.csdn.net/qq_43262022/article/details/109451460)
