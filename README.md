@@ -3,6 +3,7 @@
 # 小卡车的CSDN博客
 
 ## 博客目录如下:
+### [Vue 封装 message 插件](https://blog.csdn.net/qq_43262022/article/details/111086435)
 ### [Vue 封装 img 组件](https://blog.csdn.net/qq_43262022/article/details/111083656)
 ### [Vue 封装 loading 插件](https://blog.csdn.net/qq_43262022/article/details/111052286)
 ### [React 跨域](https://blog.csdn.net/qq_43262022/article/details/110199162)
